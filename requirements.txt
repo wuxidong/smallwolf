@@ -10,7 +10,7 @@ cffi==1.11.5
 cftp==0.4.1a0
 chardet==3.0.4
 constantly==15.1.0
-cryptography==2.2.2
+cryptography==3.2
 cssselect==1.0.3
 Django==2.0.5
 docutils==0.14
